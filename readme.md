@@ -84,6 +84,9 @@ The script:
 
 ---
 
+<img width="1573" height="461" alt="image" src="https://github.com/user-attachments/assets/26f4ede8-9cb8-487e-9c7d-37e6f8ec112c" />
+
+
 ## ❓ Troubleshooting
 
 - **API/permission errors:** Did you enable both Sheets and Drive APIs? Did you share the sheet with the Service Account?
