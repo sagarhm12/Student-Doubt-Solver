@@ -83,6 +83,7 @@ The script:
 - Add more complex workflow (attachments, follow-ups, Slack/Teams messaging...)
 
 ---
+<img width="564" height="827" alt="image" src="https://github.com/user-attachments/assets/3f3c5dc6-7470-4fbd-b607-71a70dd065bc" />
 
 <img width="1573" height="461" alt="image" src="https://github.com/user-attachments/assets/26f4ede8-9cb8-487e-9c7d-37e6f8ec112c" />
 
