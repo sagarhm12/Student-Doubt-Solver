@@ -16,9 +16,13 @@ Perfect for universities, schools, or tutoring centers looking to scale student 
 ## 🗂️ Folder Structure
 
 ├── main.py # Main agent script
+
 ├── .env # Contains API keys
+
 ├── credentials.json # Google Service Account credentials
+
 ├── recipients.csv # (Optional) Example batch email list
+
 └── README.md # This file
 
 
@@ -95,12 +99,6 @@ Built using:
 - [Google Gemini](https://ai.google.dev/)
 - [gspread](https://gspread.readthedocs.io/)
 
----
 
-## 📄 License
-
-MIT License (or your choice)
-
----
 
 **Happy learning!**
